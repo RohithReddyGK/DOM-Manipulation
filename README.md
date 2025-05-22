@@ -78,6 +78,9 @@ DOM_Manipulation/
 
 ---
 
+### Netlify Badge
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a047f83a-c2f2-4778-a69b-159d39f28f95/deploy-status)](https://app.netlify.com/projects/image-and-description-viewer/deploys)
+
 ## 🙋‍♂️ Author
 
 **Rohith Reddy.G.K**   
