@@ -40,7 +40,7 @@ No external libraries or frameworks used.
 ## 📂 Folder Structure
 
 DOM_Manipulation/
-├── DOM_Manipulation.html
+├── index.html
 └── Images/
     ├── Pahalgam_Image.avif
     ├── River_Sindhu_Blockage_Strategy.webp
@@ -73,7 +73,7 @@ DOM_Manipulation/
 
 1. Clone or download this repository.
 2. Ensure the images are placed in an `Images/` folder.
-3. Open `DOM Manipulation.html` in any modern browser.
+3. Open `index.html` in any modern browser.
 4. Use **Previous** and **Next** buttons to browse the events.
 
 ---
@@ -85,7 +85,6 @@ DOM_Manipulation/
 
 **Rohith Reddy.G.K**   
 🔗 [GitHub Profile](https://github.com/RohithReddyGK)
-
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohithreddygk)
 
 ---
