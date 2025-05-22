@@ -55,7 +55,7 @@ DOM Manipulation/
 ## 🖼️ Screenshots
 
 ### 1️⃣ Pahalgam Attack  
-![Pahalgam Screenshot](screenshots/pahalgam.png)
+![Pahalgam Screenshot]()
 
 ### 2️⃣ River Sindhu Blockage Strategy  
 ![Sindhu Screenshot](screenshots/sindhu.png)
