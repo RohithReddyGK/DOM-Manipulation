@@ -1,5 +1,10 @@
 # 🖼️ Image and Description Viewer
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![HTML](https://img.shields.io/badge/tech-HTML-orange)
+![CSS](https://img.shields.io/badge/tech-CSS-blue)
+![JavaScript](https://img.shields.io/badge/tech-JavaScript-yellow)
+
 A simple and elegant **Image and Description Viewer** built using HTML, CSS, and JavaScript DOM manipulation. This project allows users to scroll through five key national defense and strategy events with rich visuals and contextual descriptions.
 
 ---
