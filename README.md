@@ -1,4 +1,4 @@
-![Pgm 1 Output_3](https://github.com/user-attachments/assets/d645610b-53aa-41dd-bdac-ff6e7125a42a)# 🖼️ Image and Description Viewer
+# 🖼️ Image and Description Viewer
 
 A simple and elegant **Image and Description Viewer** built using HTML, CSS, and JavaScript DOM manipulation. This project allows users to scroll through five key national defense and strategy events with rich visuals and contextual descriptions.
 
