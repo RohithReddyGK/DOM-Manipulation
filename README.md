@@ -85,6 +85,6 @@ DOM Manipulation/
 **Rohith Reddy.G.K**   
 🔗 [GitHub Profile](https://github.com/RohithReddyGK)
 
-🔗 [LinkedIn Profile](https:www.linkedin.com/in/rohithreddygk)
+🔗 [LinkedIn Profile](www.linkedin.com/in/rohithreddygk)
 
 ---
