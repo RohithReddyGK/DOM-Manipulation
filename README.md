@@ -69,8 +69,6 @@ DOM Manipulation/
 ### 5️⃣ India's Military Strength  
 ![Military Screenshot](screenshots/military_strength.png)
 
-> Make sure the `screenshots/` folder is in the same directory as `index.html` and contains the listed PNG images.
-
 ---
 
 ## 📦 How to Use
@@ -86,6 +84,7 @@ DOM Manipulation/
 
 **Rohith Reddy.G.K**   
 🔗 [GitHub Profile](https://github.com/RohithReddyGK)
+
 🔗 [LinkedIn Profile](https://linkedin.com/rohithreddygk)
 
 ---
