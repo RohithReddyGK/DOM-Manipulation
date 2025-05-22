@@ -40,15 +40,14 @@ No external libraries or frameworks used.
 
 ## 📂 Folder Structure
 
-DOM Manipulation/
-│
-├── DOM Manipulation.html
+DOM_Manipulation/
+├── DOM_Manipulation.html
 ├── Images/
-│ ├── Pahalgam_Image.avif
-│ ├── River_Sindhu_Blockage_Strategy.webp
-│ ├── Surgical_Strikes.jpg
-│ ├── Operation_Sindoor.webp
-│ └── India's_Military_Strength.avif
+│   ├── Pahalgam_Image.avif
+│   ├── River_Sindhu_Blockage_Strategy.webp
+│   ├── Surgical_Strikes.jpg
+│   ├── Operation_Sindoor.webp
+│   └── Indias_Military_Strength.avif
 
 ---
 
