@@ -1,4 +1,4 @@
-# 🖼️ Image and Description Viewer
+![Pgm 1 Output_3](https://github.com/user-attachments/assets/d645610b-53aa-41dd-bdac-ff6e7125a42a)# 🖼️ Image and Description Viewer
 
 A simple and elegant **Image and Description Viewer** built using HTML, CSS, and JavaScript DOM manipulation. This project allows users to scroll through five key national defense and strategy events with rich visuals and contextual descriptions.
 
@@ -55,19 +55,24 @@ DOM Manipulation/
 ## 🖼️ Screenshots
 
 ### 1️⃣ Pahalgam Attack  
-![Pahalgam Screenshot]()
+<img src="![Pgm 1 Output_1](https://github.com/user-attachments/assets/3c8f05bd-2cc4-4a5b-a597-5b531b3ca2d6)
+" alt="Pahalgam Image" width="700" height="450"/>
 
 ### 2️⃣ River Sindhu Blockage Strategy  
-![Sindhu Screenshot](screenshots/sindhu.png)
+<img src="![Pgm 1 Output_2](https://github.com/user-attachments/assets/14c494bd-6d73-45e9-aa03-6fba4faadd5c)
+" alt="River Sindhu" width="700" height="450"/>
 
 ### 3️⃣ Surgical Strikes  
-![Surgical Screenshot](screenshots/surgical.png)
+<img src="![Pgm 1 Output_3](https://github.com/user-attachments/assets/acd466bc-bfe8-49c8-aa0e-5ec039d52b90)
+" alt="Surgical Strikes" width="700" height="450"/>
 
 ### 4️⃣ Operation Sindoor  
-![Operation Screenshot](screenshots/operation_sindoor.png)
+<img src="![Pgm 1 Output_4](https://github.com/user-attachments/assets/c2ba5116-f674-4a73-8dba-8eacb0afc6b5)
+" alt="Operation Sindoor" width="700" height="450"/>
 
 ### 5️⃣ India's Military Strength  
-![Military Screenshot](screenshots/military_strength.png)
+<img src="![Pgm 1 Output_5](https://github.com/user-attachments/assets/6f482d2d-5ae4-48aa-b3e1-ce2ac37c2884)
+" alt="India's Military Power" width="700" height="450"/>
 
 ---
 
