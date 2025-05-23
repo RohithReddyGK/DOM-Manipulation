@@ -44,6 +44,7 @@ No external libraries or frameworks used.
 ---
 ## 📂 Folder Structure
 
+```
 DOM_Manipulation/
 ├── index.html
 └── Images/
@@ -52,6 +53,7 @@ DOM_Manipulation/
     ├── Surgical_Strikes.jpg
     ├── Operation_Sindoor.webp
     └── Indias_Military_Strength.avif
+```
     
 ---
 
